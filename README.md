@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Yavçın
 Junior Frontend Developer
 -------------------------------
 
-I've been learning to code for 1 years. I started with C / C++ in my school. After, about 4 months ago I have decided to become a frontend developer. I'm currently learning React. I am developing clone applications.(Twitter, Netflix, etc.). I am currently looking for an internship, job or project where I can improve myself.
+I've been coding for 2 years. I started with C / C++ in my school. After, I have decided to become a frontend developer. I'm currently learning React. I am developing clone applications.(Twitter, Netflix, etc.). I am currently working as a Frontend Developer.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [talhayavcin35@gmail.com](mailto:talhayavcin35@gmail.com)
