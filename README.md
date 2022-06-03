@@ -8,7 +8,7 @@ I've been coding for 2 years. I started with C / C++ in my school. After, I have
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [talhayavcin35@gmail.com](mailto:talhayavcin35@gmail.com)
-* 🧠  I'm learning React.js, Node.js, Next.js
+* 🧠  I'm learning React.js, Node.js
 
 ### Skills
 
