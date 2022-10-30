@@ -6,9 +6,9 @@ Junior Frontend Developer
 
 I've been coding for 2 years. I started with C / C++ in my school. After, I have decided to become a frontend developer. I'm currently learning React. I am developing clone applications.(Twitter, Netflix, etc.). I am currently looking for a job as a Frontend Developer.
 
-* 🌍  I'm based in Istanbul, Turkey
-* ✉️  You can contact me at [talhayavcin35@gmail.com](mailto:talhayavcin35@gmail.com)
-* 🧠  I'm working for DMB Software
+* 🌍  I'm based in Istanbul, Turkey.
+* ✉️  You can contact me at [talhayavcin35@gmail.com](mailto:talhayavcin35@gmail.com).
+* 🧠  I'm looking for a job.
 
 ### Skills
 
